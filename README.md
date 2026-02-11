@@ -76,6 +76,17 @@ This demo includes **sanitized logs** to show the outputs came from a **DOCX-bas
 * `logs/legal_quality_proof.public.json`
   Legal-kit checklist results (paths sanitized; safe to publish).
 
+## Source access policy (staged disclosure)
+
+This public repository ships **generated artifacts only** (report DOCX/PDF + proof logs + integrity hashes).  
+We keep the implementation private **until an evaluation request**.
+
+- **Public (now):** Demo ZIP (outputs + sanitized logs + SHA256 + audit/proof ZIP)
+- **After inquiry:** NDA can be provided on request
+- **After NDA:** Source code access can be granted (scope depends on the evaluation)
+
+> Please do not post confidential information in public channels.
+
 Privacy note:
 
 * Public logs remove local absolute paths (e.g., `C:\Users\...`).
@@ -93,6 +104,9 @@ For questions / evaluation requests:
   [https://www.linkedin.com/in/tetsuro-kawamoto-114907388/](https://www.linkedin.com/in/tetsuro-kawamoto-114907388/)
 * X (Twitter):
   [https://x.com/kamikakusi0001](https://x.com/kamikakusi0001)
+* GitHub Discussions (Q&A):
+- https://github.com/kodomonocch1/esrs-audit-pack/discussions/categories/q-a
+
   
 ---
 
