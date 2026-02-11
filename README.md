@@ -8,6 +8,13 @@
 This repository intentionally ships **no implementation source code**.  
 Instead, it ships **generated artifacts + sanitized proof logs + integrity hashes** so evaluators can review outcomes safely.
 
+### Acquisition / Exclusive license (inbound)
+
+We’re open to **asset sale** or **exclusive licensing** of the underlying ESRS/CSRD reporting pipeline.  
+This public repo is an **artifact-only demo**; **source access is available after NDA** for serious evaluations.
+
+We review inquiries on a **rolling basis** and may prioritize parties that can move quickly.
+
 <p>
   <a href="https://github.com/kodomonocch1/esrs-audit-pack/releases/tag/v0.1.0"><b>① Download (Release v0.1.0)</b></a>
   &nbsp;•&nbsp;
