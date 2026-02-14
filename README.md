@@ -15,6 +15,9 @@ This public repo is an **artifact-only demo**; **source access is available afte
 
 We review inquiries on a **rolling basis** and may prioritize parties that can move quickly.
 
+To keep the process fair, we may start **exclusive talks** with the first party that provides a clear evaluation plan (timeline + decision owner) and can move quickly.
+If you’re interested, please include your **target date** for NDA + technical diligence in the first message.
+
 <p>
   <a href="https://github.com/kodomonocch1/esrs-audit-pack/releases/tag/v0.1.0"><b>① Download (Release v0.1.0)</b></a>
   &nbsp;•&nbsp;
@@ -111,8 +114,6 @@ For questions / evaluation requests:
   [https://www.linkedin.com/in/tetsuro-kawamoto-114907388/](https://www.linkedin.com/in/tetsuro-kawamoto-114907388/)
 * X (Twitter):
   [https://x.com/kamikakusi0001](https://x.com/kamikakusi0001)
-* GitHub Discussions (Q&A):
-- https://github.com/kodomonocch1/esrs-audit-pack/discussions/categories/q-a
 
   
 ---
@@ -149,6 +150,3 @@ Below are screenshots from the generated report (DOCX/PDF).
   </tr>
 </table>
 
----
-
-Please do not send confidential information in public channels.
